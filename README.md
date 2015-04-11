@@ -1,2 +1,3 @@
 # freeswitch_numberlist
 freeswitch 
+使用freeswitch架构呼叫中心对呼号码模块开发
